@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.fahim
+{
+    position: relative;
+    width: 100%;
+    
+}
+
+nav{
+    display: flex;
+    width: 90%;
+    margin: auto;
+    padding: 20px 0;
+    align-items:center;
+    justify-content: space-between;
+}
+
+nav ul li{
+    display: inline-block;
+    list-style-type: none;
+    margin: 10px 20px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    margin-right: 30px;
+    ;
+
+}
+nav ul li a:hover{
+    color: red;
+}
+.detiles{
+    margin-left: 8%;
+    margin-top: 15%;
+}
+.detiles h1{
+    font-size: 50px;
+    color:black;
+    margin: 20px;
+    float: left;
+}
+span
+{
+    color: rgb(51, 255, 0);
+}
+.photo{
+    width: 45%;
+    height: 50%;
+   
+
+    
+}
+ .detiles p{
+    color: rgba(0, 0, 0, 0.696);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+      margin: 1%;
+      float: left;
+}
+.about
+{
+    margin: auto;
+    padding: 20px 40px;
+    align-items:center;
+    justify-content: space-between;
+}
+.study
+{   
+    color: rebeccapurple
+}
+.skill
+{
+    margin: auto;
+    padding: 40px 40px;
+    align-items:center;
+    justify-content: space-between;
+    color: red;
+}
+.skill ul li 
+{
+    color: blue;
+}
+.fah{
+    color: rgba(51, 13, 13, 0.801);
+}
+.hire
+{
+     margin: auto;
+     padding: 20px 40px;
+     align-items:  center;
+  justify-content: space-between;
+  color: brown;
+}
